@@ -40,15 +40,15 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Mithun Technologies, Marathahalli, Bengaluru,Karnataka.</h2>
-			<h3>Contact @ +91-9980923226,+91-9980923216</h3>
+			<h2>Welcome To Akshaya Sweets, Vadalur.</h2>
+			<h3>Contact @ +91-9443422888,+91-7010323357</h3>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; Mithun Technologies 2019</p>
+		<p>&copy;Akshaya Sweets, Vadalur</p>
 	</footer>
 </div>
 
